@@ -1,5 +1,6 @@
 # Sad_Cyber
-#Jangan Lupa Kasih ⭐bintang Nya 😇🙏
+#Jangan Lupa Kasih ⭐bintang
+# Folow Juga Facebook nya Iya 😇🙏
 
 $ pkg install update && install upgrade
 
